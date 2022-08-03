@@ -1,6 +1,14 @@
 # React Boilerplate
 This is a react application boilerplate that will be used for making new projects withour spending any time on setip
 
+## Node Version Used
+```
+$ node -v
+v16.16.0
+$ npm -v
+v8.15.0
+```
+
 ## Setup
 After cloning the repo run the following command to install all the dependencies:
 
